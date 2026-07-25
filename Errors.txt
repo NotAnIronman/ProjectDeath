@@ -1,0 +1,24 @@
+Godot Engine v4.7.1.stable.official (c) 2007-present Juan Linietsky, Ariel Manzur & Godot Contributors.
+--- Debug adapter server started on port 6006 ---
+  ERROR: res://autoloads/inventory_manager.gd:46 - Parse Error: The variable type is being inferred from a Variant value, so it will be typed as Variant. (Warning treated as error.)
+  ERROR: modules/gdscript/gdscript_resource_format.cpp:46 - Failed to load script "res://autoloads/inventory_manager.gd" with error "Parse error".
+  ERROR: Failed to create an autoload, script 'res://autoloads/inventory_manager.gd' is not compiling.
+  ERROR: res://autoloads/save_manager.gd:89 - Parse Error: The variable type is being inferred from a Variant value, so it will be typed as Variant. (Warning treated as error.)
+  ERROR: res://autoloads/save_manager.gd:107 - Parse Error: The variable type is being inferred from a Variant value, so it will be typed as Variant. (Warning treated as error.)
+  ERROR: modules/gdscript/gdscript_resource_format.cpp:46 - Failed to load script "res://autoloads/save_manager.gd" with error "Parse error".
+  ERROR: Failed to create an autoload, script 'res://autoloads/save_manager.gd' is not compiling.
+  ERROR: res://autoloads/world_manager.gd:112 - Parse Error: The variable type is being inferred from a Variant value, so it will be typed as Variant. (Warning treated as error.)
+  ERROR: modules/gdscript/gdscript_resource_format.cpp:46 - Failed to load script "res://autoloads/world_manager.gd" with error "Parse error".
+  ERROR: Failed to create an autoload, script 'res://autoloads/world_manager.gd' is not compiling.
+  WARNING: scene/resources/resource_format_text.cpp:501 - res://addons/GoNote/note_panel.tscn:3 - ext_resource, invalid UID: uid://ca1yavoqbstll - using text path instead: res://addons/GoNote/gonote.gd
+--- GDScript language server started on port 6005 ---
+  ERROR: res://scripts/debug/debug_tabs/debug_tab_world_streaming.gd:169 - Parse Error: Cannot infer the type of "player" variable because the value doesn't have a set type.
+  ERROR: res://scripts/debug/debug_tabs/debug_tab_world_streaming.gd:187 - Parse Error: Cannot infer the type of "snapshot" variable because the value doesn't have a set type.
+  ERROR: res://scripts/debug/debug_item_spawner.gd:0 - Compile Error: Failed to compile depended scripts.
+  ERROR: modules/gdscript/gdscript_resource_format.cpp:46 - Failed to load script "res://scripts/debug/debug_item_spawner.gd" with error "Parse error".
+  WARNING: scene/resources/material.cpp:4096 - Godot 3.x SpatialMaterial remapped parameter not found: flags_world_triplanar
+  WARNING: scene/resources/material.cpp:4096 - Godot 3.x SpatialMaterial remapped parameter not found: params_line_width
+  WARNING: scene/resources/material.cpp:4096 - Godot 3.x SpatialMaterial remapped parameter not found: transmission_enabled
+  WARNING: scene/resources/material.cpp:4096 - Godot 3.x SpatialMaterial remapped parameter not found: proximity_fade_enable
+  WARNING: scene/resources/material.cpp:4096 - Godot 3.x SpatialMaterial remapped parameter not found: distance_fade_enable
+  WARNING: scene/resources/material.cpp:4096 - Godot 3.x SpatialMaterial remapped parameter not found: _sections_unfolded
